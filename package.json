@@ -1,6 +1,8 @@
 {
   "name": "reveal-vite",
   "version": "0.0.0",
+  "description": "Example HTML presentation with Reveal.js bundled with Vite.js",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
